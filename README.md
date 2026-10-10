@@ -8,20 +8,31 @@ My work spans machine learning, computer vision, and generative AI. Beyond the m
 I believe great technology should not only work well, but also be useful and thoughtfully designed.
 
 ---
-
 ### 📖 Beyond the Code
 
 I've put together an interactive portfolio where you can flip through my projects, experiences, and the ideas I've brought to life.
 
-<a href="https://paperfolio-7c92.vercel.app/" target="_blank" rel="noopener noreferrer">
-  <img src="./assets/notebook-icon.png" alt="My notebook portfolio" width="65" align="left" />
-</a>
-
-&nbsp;&nbsp; **Explore my work**
-
-&nbsp;&nbsp; <a href="https://paperfolio-7c92.vercel.app/" target="_blank" rel="noopener noreferrer">Explore My Interactive Portfolio ↗</a>
-
-<br clear="left" />
+<table>
+  <tr>
+    <td width="160" align="center" valign="middle">
+      <a href="https://paperfolio-7c92.vercel.app/">
+        <img
+          src="./assets/notebook-icon.png"
+          alt="My interactive notebook portfolio"
+          width="145"
+        />
+      </a>
+    </td>
+    <td width="240" valign="middle">
+      <strong>Explore My Portfolio</strong>
+      <br />
+      <br />
+      <a href="https://paperfolio-7c92.vercel.app/">
+        Open portfolio ↗
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
