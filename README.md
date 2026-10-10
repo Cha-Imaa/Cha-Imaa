@@ -8,7 +8,8 @@ My work spans machine learning, computer vision, and generative AI. Beyond the m
 I believe great technology should not only work well, but also be useful and thoughtfully designed.
 
 ---
-### 📖 Beyond the Code
+
+### <img src="./assets/pencil.png" width="32" align="center" alt="" /> Beyond the Code
 
 I've put together an interactive portfolio where you can flip through my projects, experiences, and the ideas I've brought to life.
 
@@ -16,17 +17,14 @@ I've put together an interactive portfolio where you can flip through my project
   <tr>
     <td width="160" align="center" valign="middle">
       <a href="https://paperfolio-7c92.vercel.app/">
-        <img
-          src="./assets/notebook-icon.png"
-          alt="My interactive notebook portfolio"
-          width="145"
-        />
+        <img src="./assets/notebook-icon.png"
+             alt="My interactive notebook portfolio"
+             width="145" />
       </a>
     </td>
     <td width="240" valign="middle">
       <strong>Explore My Portfolio</strong>
-      <br />
-      <br />
+      <br /><br />
       <a href="https://paperfolio-7c92.vercel.app/">
         Open portfolio ↗
       </a>
@@ -36,19 +34,19 @@ I've put together an interactive portfolio where you can flip through my project
 
 ---
 
-### 🛠️ What I Work With
+### <img src="./assets/tools.png" width="32" align="center" alt="" /> What I Work With
 
 **AI & Machine Learning**
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=light" alt="Python, PyTorch, TensorFlow, OpenCV" />
+<img src="./assets/python.png" width="55" alt="Python" title="Python" /> <img src="./assets/pytorch.png" width="55" alt="PyTorch" title="PyTorch" /> <img src="./assets/tensorflow.png" width="55" alt="TensorFlow" title="TensorFlow" /> <img src="./assets/opencv.png" width="55" alt="OpenCV" title="OpenCV" />
 
 **Software & Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,fastapi&theme=light" alt="React, TypeScript, JavaScript, HTML, CSS, FastAPI" />
+<img src="./assets/react.png" width="55" alt="React" title="React" /> <img src="./assets/typescript.png" width="55" alt="TypeScript" title="TypeScript" /> <img src="./assets/javascript.png" width="55" alt="JavaScript" title="JavaScript" /> <img src="./assets/html.png" width="55" alt="HTML" title="HTML" /> <img src="./assets/css.png" width="55" alt="CSS" title="CSS" /> <img src="./assets/fastapi.png" width="55" alt="FastAPI" title="FastAPI" />
 
 **Cloud & Developer Tools**
 
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github&theme=light" alt="AWS, Docker, Linux, Git, GitHub" />
+<img src="./assets/aws.png" width="55" alt="AWS" title="AWS" /> <img src="./assets/docker.png" width="55" alt="Docker" title="Docker" /> <img src="./assets/linux.png" width="55" alt="Linux" title="Linux" /> <img src="./assets/git.png" width="55" alt="Git" title="Git" /> <img src="./assets/github.png" width="55" alt="GitHub" title="GitHub" />
 
 ---
 
