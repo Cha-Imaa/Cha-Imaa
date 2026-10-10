@@ -1,5 +1,11 @@
 
-# Hi, I'm Chaimaa 👋
+<h1>
+  Hi, I'm Chaimaa
+  <img src="./assets/botanical-sprig.png"
+       width="38"
+       align="center"
+       alt="" />
+</h1>
 
 I enjoy building things that combine **AI, engineering, and thoughtful design**.
 
@@ -17,9 +23,11 @@ I've put together an interactive portfolio where you can flip through my project
   <tr>
     <td width="160" align="center" valign="middle">
       <a href="https://paperfolio-7c92.vercel.app/">
-        <img src="./assets/notebook-icon.png"
-             alt="My interactive notebook portfolio"
-             width="145" />
+        <img
+          src="./assets/notebook-icon.png"
+          alt="My interactive notebook portfolio"
+          width="145"
+        />
       </a>
     </td>
     <td width="240" valign="middle">
