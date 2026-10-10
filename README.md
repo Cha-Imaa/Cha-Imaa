@@ -1,10 +1,7 @@
 
 <h1>
   Hi, I'm Chaimaa
-  <img src="./assets/botanical-sprig.png"
-       width="38"
-       align="center"
-       alt="" />
+  <img src="./assets/botanical-sprig.png" width="40" align="top" alt="" />
 </h1>
 
 I enjoy building things that combine **AI, engineering, and thoughtful design**.
@@ -15,19 +12,20 @@ I believe great technology should not only work well, but also be useful and tho
 
 ---
 
-### <img src="./assets/pencil.png" width="32" align="center" alt="" /> Beyond the Code
+<h3>
+  <img src="./assets/pencil.png" width="48" align="absmiddle" alt="" />
+  Beyond the Code
+</h3>
 
 I've put together an interactive portfolio where you can flip through my projects, experiences, and the ideas I've brought to life.
 
 <table>
   <tr>
-    <td width="160" align="center" valign="middle">
+    <td width="140" align="center" valign="middle">
       <a href="https://paperfolio-7c92.vercel.app/">
-        <img
-          src="./assets/notebook-icon.png"
-          alt="My interactive notebook portfolio"
-          width="145"
-        />
+        <img src="./assets/notebook-icon.png"
+             alt="My interactive notebook portfolio"
+             width="145" />
       </a>
     </td>
     <td width="240" valign="middle">
@@ -42,19 +40,46 @@ I've put together an interactive portfolio where you can flip through my project
 
 ---
 
-### <img src="./assets/tools.png" width="32" align="center" alt="" /> What I Work With
+<h3>
+  <img src="./assets/tools.png" width="36" align="absmiddle" alt="" />
+  What I Work With
+</h3>
 
 **AI & Machine Learning**
 
-<img src="./assets/python.png" width="55" alt="Python" title="Python" /> <img src="./assets/pytorch.png" width="55" alt="PyTorch" title="PyTorch" /> <img src="./assets/tensorflow.png" width="55" alt="TensorFlow" title="TensorFlow" /> <img src="./assets/opencv.png" width="55" alt="OpenCV" title="OpenCV" />
+<table>
+  <tr>
+    <td align="center" valign="middle"><img src="./assets/python.png" width="48" alt="Python" title="Python" /></td>
+    <td align="center" valign="middle"><img src="./assets/pytorch.png" width="48" alt="PyTorch" title="PyTorch" /></td>
+    <td align="center" valign="middle"><img src="./assets/tensorflow.png" width="48" alt="TensorFlow" title="TensorFlow" /></td>
+    <td align="center" valign="middle"><img src="./assets/opencv.png" width="48" alt="OpenCV" title="OpenCV" /></td>
+  </tr>
+</table>
 
 **Software & Frontend**
 
-<img src="./assets/react.png" width="55" alt="React" title="React" /> <img src="./assets/typescript.png" width="55" alt="TypeScript" title="TypeScript" /> <img src="./assets/javascript.png" width="55" alt="JavaScript" title="JavaScript" /> <img src="./assets/html.png" width="55" alt="HTML" title="HTML" /> <img src="./assets/css.png" width="55" alt="CSS" title="CSS" /> <img src="./assets/fastapi.png" width="55" alt="FastAPI" title="FastAPI" />
+<table>
+  <tr>
+    <td align="center" valign="middle"><img src="./assets/react.png" width="48" alt="React" title="React" /></td>
+    <td align="center" valign="middle"><img src="./assets/typescript.png" width="48" alt="TypeScript" title="TypeScript" /></td>
+    <td align="center" valign="middle"><img src="./assets/javascript.png" width="48" alt="JavaScript" title="JavaScript" /></td>
+    <td align="center" valign="middle"><img src="./assets/html.png" width="48" alt="HTML" title="HTML" /></td>
+    <td align="center" valign="middle"><img src="./assets/css.png" width="48" alt="CSS" title="CSS" /></td>
+    <td align="center" valign="middle"><img src="./assets/fastapi.png" width="42" alt="FastAPI" title="FastAPI" /></td>
+  </tr>
+</table>
 
 **Cloud & Developer Tools**
 
-<img src="./assets/aws.png" width="55" alt="AWS" title="AWS" /> <img src="./assets/docker.png" width="55" alt="Docker" title="Docker" /> <img src="./assets/linux.png" width="55" alt="Linux" title="Linux" /> <img src="./assets/git.png" width="55" alt="Git" title="Git" /> <img src="./assets/github.png" width="55" alt="GitHub" title="GitHub" />
+<table>
+  <tr>
+    <td align="center" valign="middle"><img src="./assets/aws.png" width="48" alt="AWS" title="AWS" /></td>
+    <td align="center" valign="middle"><img src="./assets/docker.png" width="48" alt="Docker" title="Docker" /></td>
+    <td align="center" valign="middle"><img src="./assets/linux.png" width="48" alt="Linux" title="Linux" /></td>
+    <td align="center" valign="middle"><img src="./assets/git.png" width="48" alt="Git" title="Git" /></td>
+    <td align="center" valign="middle"><img src="./assets/github.png" width="54" alt="GitHub" title="GitHub" /></td>
+  </tr>
+</table>
 
 ---
 
