@@ -8,8 +8,6 @@ I enjoy building things that combine **AI, engineering, and thoughtful design**.
 
 My work spans machine learning, computer vision, and generative AI. Beyond the models, I'm interested in the engineering that brings them to life: from building intuitive frontend experiences to exploring cloud technologies.
 
-I believe great technology should not only work well, but also be useful and thoughtfully designed.
-
 ---
 
 <h3>
